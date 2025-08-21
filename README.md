@@ -49,3 +49,6 @@ Sistema de gerenciamento de loja feito em Python com integração a banco de dad
 
 ---
 
+CONTATO
+https://www.linkedin.com/in/caio-lipinski-a3363a300/
+

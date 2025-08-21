@@ -49,19 +49,3 @@ Sistema de gerenciamento de loja feito em Python com integração a banco de dad
 
 ---
 
-## 🚀 Como Executar os Projetos
-
-### Java
-- Requisitos: JDK instalado
-- IDE sugerida: IntelliJ ou Eclipse
-- Execute os arquivos `.java` normalmente na IDE após compilar
-
-### SQL
-- Use um SGBD compatível (ex: SQL Server, MySQL ou PostgreSQL)
-- Execute os scripts diretamente no editor SQL ou via linha de comando
-
-### Python
-- Requisitos: Python 3.x instalado
-- Execute com o comando:
-  ```bash
-  python "sistemaloja com sql.py"

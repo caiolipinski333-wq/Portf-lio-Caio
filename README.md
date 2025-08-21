@@ -13,17 +13,6 @@ Consultas e estrutura de banco de dados relacionadas a um sistema hospitalar fic
 
 ---
 
-### 🚗 Loja de Carros (Java)
-**Arquivo:** [`LojadecarroMain.java`](./LojadecarroMain.java)  
-Simulação de uma loja de veículos utilizando Java. Inclui cadastro de carros, exibição de estoque e funcionalidades básicas de sistema.
-
----
-
-### 🌌 Planetário (Java)
-**Arquivo:** [`Planetario.java`](./Planetario.java)  
-Projeto em Java voltado para lógica de astronomia ou sistema planetário.
-
----
 
 ### 📊 Big Data (SQL)
 **Arquivo:** [`bigdata.sql`](./bigdata.sql)  
@@ -31,9 +20,25 @@ Consultas otimizadas para grandes volumes de dados, aplicando técnicas de anál
 
 ---
 
+
 ### ⚙️ Códigos de Automação SQL
 **Arquivo:** [`codigos sql automatização.sql`](./codigos%20sql%20automatiza%C3%A7%C3%A3o.sql)  
 Scripts SQL utilizados para automatizar processos rotineiros de banco de dados, como inserções, atualizações e relatórios.
+
+
+---
+
+
+### 🚗 Loja de Carros (Java)
+**Arquivo:** [`LojadecarroMain.java`](./LojadecarroMain.java)  
+Simulação de uma loja de veículos utilizando Java. 
+
+---
+
+### 🌌 Planetário (Java)
+**Arquivo:** [`Planetario.java`](./Planetario.java)  
+Projeto em Java voltado para lógica de astronomia ou sistema planetário.
+
 
 ---
 
